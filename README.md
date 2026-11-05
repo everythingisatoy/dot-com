@@ -1,2 +1,2 @@
-# dot-com
+# dot•com
 If you build it...
